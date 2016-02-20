@@ -19,14 +19,16 @@
   "bin": {
     "backbone-typescript-accessor-generator": "bin/modelgen"
   },
-  "dependencies" : {
+  "dependencies": {
     "underscore": "1.x.x",
     "js-yaml": "2.x.x"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "typescript", "backbone.js"
+    "gruntplugin",
+    "typescript",
+    "backbone.js"
   ]
 }
